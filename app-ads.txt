@@ -1,3 +1,4 @@
+google.com, pub-6421120355068188, DIRECT, f08c47fec0942fa0
 adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
 pubmatic.com, 158060, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160456, RESELLER, 5d62403b186f2ace
